@@ -1,0 +1,16 @@
+Tipo;Estratégia;Nome;Rating;FGC;Valor Investido;Taxa (a.a.);Data do Investimento;Data de Resgate
+RF;Pós-fixado;CDB Original;AAA;sim;10000;10.0%;14/01/2018;13/01/2022
+RF;Inflação;Tesouro Direto;B+;não;15000;9.5%;14/02/2018;14/05/2018
+RF;Prefixado;LC Pernambucanas;AA;sim;25000;10.6%;14/03/2018;12/09/2019
+RF;Pós-fixado;CDB PAN;BB+;sim;24000;11.0%;14/04/2018;14/04/2019
+RF;Pós-fixado;CDB BTG Pactual;BB;sim;12500;7.8%;14/05/2018;11/11/2020
+RF;Inflação;Tesouro Direto;BB-;não;3800;11.0%;14/06/2018;13/06/2021
+RF;Prefixado;LC BMT;AA;sim;8000;8.7%;14/07/2018;12/01/2019
+RF;Prefixado;CDB BMG;AA+;sim;1500;9.6%;14/08/2018;11/02/2022
+RF;Inflação;CDB Fibra;AAA;sim;7800;10.7%;14/09/2018;13/09/2020
+RV;Renda Variável;Ações da Vale;BBB+;não;4500;35.0%;20/12/2018;19/12/2023
+RV;Renda Variável;Ações do Magazine Luíza;A;não;4000;58.0%;15/01/2018;14/01/2022
+RV;Multimercado;Western FIM;A+;não;2000;48.0%;10/02/2018;09/02/2021
+RV;Multimercado;Real FIM;BBB;não;2500;42.6%;09/03/2018;08/03/2020
+RV;Alternativo;COE CS Saúde Digital;AA;não;5000;13.0%;14/11/2018;13/11/2023
+RV;Internacional;Alaska FIA BDR;BBB+;não;2500;38.7%;14/04/2018;22/12/2018
