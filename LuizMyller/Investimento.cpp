@@ -130,19 +130,19 @@ Imposto Investimento::getImposto() const
 
 string Investimento::toString() const
 {
-	return format("{} | {} | {} | {} |", this->getNome(), this->getRating(), Estrategia::tipoEstrategia(this->getEstrategia().getEstrategia()), this->getProtecaoFgc() == true ? "sim" : "n„o");
+	return format("{} | {} | {} | {} |", this->getNome(), this->getRating(), Estrategia::tipoEstrategia(this->getEstrategia().getEstrategia()), this->getProtecaoFgc() == true ? "sim" : "n√£o");
 }
 
 // Calcula o valor bruto do investimento
 double Investimento::calcularValorBruto() const
 {
 	/*
-	* Investimento::getPrazo() * static_cast<float>(12) / 252 converte o prazo para deixar em meses para o c·lculo do valor bruto
+	* Investimento::getPrazo() * static_cast<float>(12) / 252 converte o prazo para deixar em meses para o c√°lculo do valor bruto
 	*/
 	return valorInvestido * pow(1 + (calcularTaxaMensal() / 100.0), Investimento::getPrazo() * static_cast<float>(12) / 252);
 }
 
-// Calcula a taxa ao mÍs do investimento
+// Calcula a taxa ao m√™s do investimento
 double Investimento::calcularTaxaMensal() const
 {
 	return ((pow(1 + (this->taxa / 100.0), 1.0 / 12.0)) - 1.0) * 100.0;

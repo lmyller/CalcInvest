@@ -28,7 +28,7 @@ double Imposto::calcularIR(double rendimentoBruto, unsigned prazo)
 	return rendimentoBruto * Imposto::TAXA_IR_15;
 }
 
-// Obtém a alíquota do IR a partir do prazo
+// ObtÃ©m a alÃ­quota do IR a partir do prazo
 double Imposto::obterAliquota(unsigned prazo)
 {
 	if (prazo <= 180)

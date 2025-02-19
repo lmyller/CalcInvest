@@ -1,0 +1,90 @@
+﻿
+1. Estratégia: Alternativo
+
+ - COE CS Saúde Digital
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   5000.00          R$   9212.18       R$   8580.35         R$   3580.35                  71.61%
+
+2. Estratégia: Renda Variável
+
+ - Ações da Vale
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   4500.00          R$  20178.15       R$  17826.43         R$  13326.43                 296.14%
+
+ - Ações do Magazine Luíza
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   4000.00          R$  24928.05       R$  21788.84         R$  17788.84                 444.72%
+
+3. Estratégia: Pós-fixado
+
+ - CDB Original
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$  10000.00          R$  14641.00       R$  13944.85         R$   3944.85                  39.45%
+
+ - CDB PAN
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$  24000.00          R$  26640.00       R$  26112.00         R$   2112.00                   8.80%
+
+ - CDB BTG Pactual
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$  12500.00          R$  14799.70       R$  14397.25         R$   1897.25                  15.18%
+
+4. Estratégia: Internacional
+
+ - Alaska FIA BDR
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   2500.00          R$   3118.66       R$   3025.86         R$    525.86                  21.03%
+
+5. Estratégia: Inflação
+
+ - Tesouro Direto
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$  15000.00          R$  15316.19       R$  15245.05         R$    245.05                   1.63%
+
+ - Tesouro Direto
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   3800.00          R$   5197.00       R$   4987.45         R$   1187.45                  31.25%
+
+ - CDB Fibra
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   7800.00          R$   9438.00       R$   9151.35         R$   1351.35                  17.33%
+
+6. Estratégia: Prefixado
+
+ - LC Pernambucanas
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$  25000.00          R$  28831.34       R$  28160.85         R$   3160.85                  12.64%
+
+ - LC BMT
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   8000.00          R$   8311.31       R$   8241.26         R$    241.26                   3.02%
+
+ - CDB BMG
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   1500.00          R$   2027.38       R$   1948.27         R$    448.27                  29.88%
+
+7. Estratégia: Multimercado
+
+ - Western FIM
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   2000.00          R$   6483.58       R$   5811.05         R$   3811.05                 190.55%
+
+ - Real FIM
+
+    Valor investido       Valor bruto        Valor líquido       Rendimento líquido        Rentabilidade líquida
+    R$   2500.00          R$   5041.00       R$   4659.85         R$   2159.85                  86.39%
+

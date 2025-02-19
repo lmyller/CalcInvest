@@ -16,10 +16,9 @@ CalcInvest::CalcInvest(){}
 
 int CalcInvest::calcInvest()
 {
-    locale::global(locale("pt_BR.utf8"));
-    setlocale(LC_ALL, "pt-BR");
+    setlocale(LC_ALL, ".utf-8");
 
-    importarInvestimentos("Investimentos.csv");
+    importarInvestimentos("./csv/Investimentos.csv");
     exibirRelatorios();
 
     return EXIT_SUCCESS;
@@ -92,7 +91,7 @@ bool CalcInvest::investimentosPorTipo()
     unsigned char cont = 1;
    
     // Abre arquivo para escrita
-    textFile.open("InvestimentosPorTipo.txt", AccessType::WRITING);
+    textFile.open("./relatorio/InvestimentosPorTipo.txt", AccessType::WRITING);
 
     for (unsigned indice = 0; indice < carteiraInvestimentos.numeroInvestimentos(); indice++)
     {
@@ -116,12 +115,12 @@ bool CalcInvest::investimentosPorTipo()
         string tipoString = format("{}. {}\n", cont++, tipo);
 
         // Converte a string para wstring
-        textFile.write(Utils::stringToWstring(tipoString));
+        textFile.write(Utils::removeNulls(Utils::stringToWstring(tipoString)));
 
         for (Investimento* investimento : investimentoEstrategia.second)
         {
             // Escreve no arquivo o relatório por tipo do investimento
-            textFile.write(Utils::stringToWstring(obterRelatorioPorTipo(investimento)));
+            textFile.write(Utils::removeNulls(Utils::stringToWstring(obterRelatorioPorTipo(investimento))));
         }
     }
 
@@ -137,7 +136,13 @@ bool CalcInvest::investimentosPorEstrategia()
     unsigned char cont = 1;
 
     // Abre arquivo para escrita
-    textFile.open("InvestimentosPorEstrategia.txt", AccessType::WRITING);
+    textFile.open("./relatorio/InvestimentosPorEstrategia.txt", AccessType::WRITING);
+
+	/* Escreve o BOM UTF-8 no início do arquivo para garantir a correta exibição do arquivo no bloco de notas, isto ocorre porque o bloco de notas
+     * tenta detectar automaticamente a codificação, mas ele detecta este arquivo como UTF-16 gerando falha na exibição dos dados do arquivo
+     */
+    wstring bom = L"\uFEFF"; // Representação do BOM em UTF-8 como wstring
+    textFile.write(bom);
 
     for (unsigned indice = 0; indice < carteiraInvestimentos.numeroInvestimentos(); indice++)
     {
@@ -158,12 +163,12 @@ bool CalcInvest::investimentosPorEstrategia()
         string estrategiaString = format("{}. Estratégia: {}\n", cont++, estrategia);
 
         // Converte a string para wstring
-        textFile.write(Utils::stringToWstring(estrategiaString));
+        textFile.write(Utils::removeNulls(Utils::stringToWstring(estrategiaString)));
 
         for (Investimento* investimento : investimentoEstrategia.second)
         {
             // Escreve no arquivo o relatório por tipo do investimento
-            textFile.write(Utils::stringToWstring(obterRelatorioPorEstrategia(investimento)));
+            textFile.write(Utils::removeNulls(Utils::stringToWstring(obterRelatorioPorEstrategia(investimento))));
         }
     }
     textFile.close();

@@ -1,0 +1,244 @@
+1. Renda Fixa
+
+- CDB Original | AAA | Pós-fixado | sim | Prazo: 4 anos
+
+   Valor investido: R$ 10000.00
+   Taxa ao ano: 10.00% a.a.
+   Taxa ao mês: 0.80% a.m.
+   Data do investimento: 14/01/2018
+   Data de resgate: 13/01/2022
+   Valor bruto: R$ 14641.00
+   Valor líquido: R$ 13944.85
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 696.15
+   Rendimento bruto: R$ 4641.00
+   Rendimento líquido: R$ 3944.85
+   Rentabilidade bruta: 46.41%
+   Rentabilidade líquida: 39.45%
+
+- Tesouro Direto | B+ | Inflação | não | Prazo: 2 meses
+
+   Valor investido: R$ 15000.00
+   Taxa ao ano: 9.00% a.a.
+   Taxa ao mês: 0.72% a.m.
+   Data do investimento: 14/02/2018
+   Data de resgate: 14/05/2018
+   Valor bruto: R$ 15316.19
+   Valor líquido: R$ 15245.05
+   Alíquota de IR: 22.50%
+   Valor do IR: R$ 71.14
+   Rendimento bruto: R$ 316.19
+   Rendimento líquido: R$ 245.05
+   Rentabilidade bruta: 2.11%
+   Rentabilidade líquida: 1.63%
+
+- LC Pernambucanas | AA | Prefixado | sim | Prazo: 1 anos e 5 meses
+
+   Valor investido: R$ 25000.00
+   Taxa ao ano: 10.00% a.a.
+   Taxa ao mês: 0.80% a.m.
+   Data do investimento: 14/03/2018
+   Data de resgate: 12/09/2019
+   Valor bruto: R$ 28831.34
+   Valor líquido: R$ 28160.85
+   Alíquota de IR: 17.50%
+   Valor do IR: R$ 670.48
+   Rendimento bruto: R$ 3831.34
+   Rendimento líquido: R$ 3160.85
+   Rentabilidade bruta: 15.33%
+   Rentabilidade líquida: 12.64%
+
+- CDB PAN | BB+ | Pós-fixado | sim | Prazo: 1 anos
+
+   Valor investido: R$ 24000.00
+   Taxa ao ano: 11.00% a.a.
+   Taxa ao mês: 0.87% a.m.
+   Data do investimento: 14/04/2018
+   Data de resgate: 14/04/2019
+   Valor bruto: R$ 26640.00
+   Valor líquido: R$ 26112.00
+   Alíquota de IR: 20.00%
+   Valor do IR: R$ 528.00
+   Rendimento bruto: R$ 2640.00
+   Rendimento líquido: R$ 2112.00
+   Rentabilidade bruta: 11.00%
+   Rentabilidade líquida: 8.80%
+
+- CDB BTG Pactual | BB | Pós-fixado | sim | Prazo: 2 anos e 5 meses
+
+   Valor investido: R$ 12500.00
+   Taxa ao ano: 7.00% a.a.
+   Taxa ao mês: 0.57% a.m.
+   Data do investimento: 14/05/2018
+   Data de resgate: 11/11/2020
+   Valor bruto: R$ 14799.70
+   Valor líquido: R$ 14397.25
+   Alíquota de IR: 17.50%
+   Valor do IR: R$ 402.45
+   Rendimento bruto: R$ 2299.70
+   Rendimento líquido: R$ 1897.25
+   Rentabilidade bruta: 18.40%
+   Rentabilidade líquida: 15.18%
+
+- Tesouro Direto | BB- | Inflação | não | Prazo: 3 anos
+
+   Valor investido: R$ 3800.00
+   Taxa ao ano: 11.00% a.a.
+   Taxa ao mês: 0.87% a.m.
+   Data do investimento: 14/06/2018
+   Data de resgate: 13/06/2021
+   Valor bruto: R$ 5197.00
+   Valor líquido: R$ 4987.45
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 209.55
+   Rendimento bruto: R$ 1397.00
+   Rendimento líquido: R$ 1187.45
+   Rentabilidade bruta: 36.76%
+   Rentabilidade líquida: 31.25%
+
+- LC BMT | AA | Prefixado | sim | Prazo: 5 meses
+
+   Valor investido: R$ 8000.00
+   Taxa ao ano: 8.00% a.a.
+   Taxa ao mês: 0.64% a.m.
+   Data do investimento: 14/07/2018
+   Data de resgate: 12/01/2019
+   Valor bruto: R$ 8311.31
+   Valor líquido: R$ 8241.26
+   Alíquota de IR: 22.50%
+   Valor do IR: R$ 70.04
+   Rendimento bruto: R$ 311.31
+   Rendimento líquido: R$ 241.26
+   Rentabilidade bruta: 3.89%
+   Rentabilidade líquida: 3.02%
+
+- CDB BMG | AA+ | Prefixado | sim | Prazo: 3 anos e 5 meses
+
+   Valor investido: R$ 1500.00
+   Taxa ao ano: 9.00% a.a.
+   Taxa ao mês: 0.72% a.m.
+   Data do investimento: 14/08/2018
+   Data de resgate: 11/02/2022
+   Valor bruto: R$ 2027.38
+   Valor líquido: R$ 1948.27
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 79.11
+   Rendimento bruto: R$ 527.38
+   Rendimento líquido: R$ 448.27
+   Rentabilidade bruta: 35.16%
+   Rentabilidade líquida: 29.88%
+
+- CDB Fibra | AAA | Inflação | sim | Prazo: 2 anos
+
+   Valor investido: R$ 7800.00
+   Taxa ao ano: 10.00% a.a.
+   Taxa ao mês: 0.80% a.m.
+   Data do investimento: 14/09/2018
+   Data de resgate: 13/09/2020
+   Valor bruto: R$ 9438.00
+   Valor líquido: R$ 9151.35
+   Alíquota de IR: 17.50%
+   Valor do IR: R$ 286.65
+   Rendimento bruto: R$ 1638.00
+   Rendimento líquido: R$ 1351.35
+   Rentabilidade bruta: 21.00%
+   Rentabilidade líquida: 17.33%
+
+2. Renda Variável
+
+- Ações da Vale | BBB+ | Renda Variável | não | Prazo: 5 anos
+
+   Valor investido: R$ 4500.00
+   Taxa ao ano: 35.00% a.a.
+   Taxa ao mês: 2.53% a.m.
+   Data do investimento: 20/12/2018
+   Data de resgate: 19/12/2023
+   Valor bruto: R$ 20178.15
+   Valor líquido: R$ 17826.43
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 2351.72
+   Rendimento bruto: R$ 15678.15
+   Rendimento líquido: R$ 13326.43
+   Rentabilidade bruta: 348.40%
+   Rentabilidade líquida: 296.14%
+
+- Ações do Magazine Luíza | A | Renda Variável | não | Prazo: 4 anos
+
+   Valor investido: R$ 4000.00
+   Taxa ao ano: 58.00% a.a.
+   Taxa ao mês: 3.89% a.m.
+   Data do investimento: 15/01/2018
+   Data de resgate: 14/01/2022
+   Valor bruto: R$ 24928.05
+   Valor líquido: R$ 21788.84
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 3139.21
+   Rendimento bruto: R$ 20928.05
+   Rendimento líquido: R$ 17788.84
+   Rentabilidade bruta: 523.20%
+   Rentabilidade líquida: 444.72%
+
+- Western FIM | A+ | Multimercado | não | Prazo: 3 anos
+
+   Valor investido: R$ 2000.00
+   Taxa ao ano: 48.00% a.a.
+   Taxa ao mês: 3.32% a.m.
+   Data do investimento: 10/02/2018
+   Data de resgate: 09/02/2021
+   Valor bruto: R$ 6483.58
+   Valor líquido: R$ 5811.05
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 672.54
+   Rendimento bruto: R$ 4483.58
+   Rendimento líquido: R$ 3811.05
+   Rentabilidade bruta: 224.18%
+   Rentabilidade líquida: 190.55%
+
+- Real FIM | BBB | Multimercado | não | Prazo: 2 anos
+
+   Valor investido: R$ 2500.00
+   Taxa ao ano: 42.00% a.a.
+   Taxa ao mês: 2.97% a.m.
+   Data do investimento: 09/03/2018
+   Data de resgate: 08/03/2020
+   Valor bruto: R$ 5041.00
+   Valor líquido: R$ 4659.85
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 381.15
+   Rendimento bruto: R$ 2541.00
+   Rendimento líquido: R$ 2159.85
+   Rentabilidade bruta: 101.64%
+   Rentabilidade líquida: 86.39%
+
+- COE CS Saúde Digital | AA | Alternativo | não | Prazo: 5 anos
+
+   Valor investido: R$ 5000.00
+   Taxa ao ano: 13.00% a.a.
+   Taxa ao mês: 1.02% a.m.
+   Data do investimento: 14/11/2018
+   Data de resgate: 13/11/2023
+   Valor bruto: R$ 9212.18
+   Valor líquido: R$ 8580.35
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 631.83
+   Rendimento bruto: R$ 4212.18
+   Rendimento líquido: R$ 3580.35
+   Rentabilidade bruta: 84.24%
+   Rentabilidade líquida: 71.61%
+
+- Alaska FIA BDR | BBB+ | Internacional | não | Prazo: 173 dias
+
+   Valor investido: R$ 2500.00
+   Taxa ao ano: 38.00% a.a.
+   Taxa ao mês: 2.72% a.m.
+   Data do investimento: 14/04/2018
+   Data de resgate: 22/12/2018
+   Valor bruto: R$ 3118.66
+   Valor líquido: R$ 3025.86
+   Alíquota de IR: 15.00%
+   Valor do IR: R$ 92.80
+   Rendimento bruto: R$ 618.66
+   Rendimento líquido: R$ 525.86
+   Rentabilidade bruta: 24.75%
+   Rentabilidade líquida: 21.03%
+
